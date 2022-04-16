@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD -->
 # QTrip Static
 
 QTrip Static is a static travel booking website made using HTML, CSS and Bootstrap Framework which is deployed using netlify.<br/>
@@ -8,9 +8,9 @@ Deployment:<br/>
 https://keerthishankarpunchithaya-qtrip.netlify.app/
 =======
 
-QTrip Static is a static travel booking website made using HTML, CSS and Bootstrap Framework which is deployed using netlify.<br/>
+<!-- QTrip Static is a static travel booking website made using HTML, CSS and Bootstrap Framework which is deployed using netlify.<br/>
 #Crio FE-1 Sprint
-<br/><br/>
+<br/><br/> -->
 ![javascript](https://badges.aleen42.com/src/javascript.svg)
 [![Generic badge](https://img.shields.io/badge/HTML-CSS-yellow.svg)](https://shields.io/)
 ![visual_studio_code](https://badges.aleen42.com/src/visual_studio_code.svg)
@@ -19,6 +19,6 @@ QTrip Static is a static travel booking website made using HTML, CSS and Bootstr
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0d013a38-4daf-4cf8-891d-dbb58e365eeb/deploy-status)](https://app.netlify.com/sites/paytm-clone/deploys)
 <br/><br/><br/>
-Deployment:<br/>
-https://keerthishankarpunchithaya-qtrip.netlify.app/
+<!-- Deployment:<br/>
+https://keerthishankarpunchithaya-qtrip.netlify.app/ -->
 >>>>>>> 689356cbcbf788f651a6b575922a49583a980852
